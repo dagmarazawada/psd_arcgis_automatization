@@ -9,4 +9,4 @@ Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScrip
 
 ### ArcGIS ###
 
-* Skrypty uruchamiać ręcznie przez Toolbox lub w konsoli Python, lub poza ArcGIS..
+* Wywołanie przez ArcMap: Otworzyć projekt ArcMap (.mxd), w zakładce ArcToolbox kliknąć prawym przyciskiem na ArcToolbox - Add Toolbox, odnaleźć i wskazać ściągnięty toolbox _exportTool.tbx lub przez ArcCatalog odnaleźć Toolbox _exportTool.tbx, w którym znajduje się skrypt do wskazania parametrów i uruchomienia
