@@ -2,6 +2,20 @@
 
 Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScript) i ArcGIS (Python)
 
+# Zastosowanie #
+
+### PSD ###
+
+* `Layer_export_PNG24` - z aktywnego projektu .psd skrypt eksportuje wszystkie warstwy do oddzielnych plików .png i zapisuje je w tej samej lokalizacji co projekt
+
+* `_open_resize10_savePNG2_invertBlack` - we wskazanych katalogach skrypt odszukuje pliki .tif, zmienia ich tryb barw na rgb, zmniejsza do 10% wielkości i zapisuje w tej samej lokalizacji w formacie .png, oryginalny plik .tif jest usuwany
+
+### ArcGIS ###
+
+* `exportPNG` - w aktywnym projekcie .mxd skrypt kolejno eksportuje do formatu .png wszystkie warstwy projektu w widoku i rozmiarze takim jak do druku (layout view)
+
+# Uruchomienie #
+
 ### PSD ###
 
 * Skrypt otworzyć w Adobe ExtendScript Toolkit i przez niego uruchomić w Photoshop, lub
