@@ -1,0 +1,1 @@
+copy fodler to PSD installation path Adobe/Photoshop/Presets/Scripts
