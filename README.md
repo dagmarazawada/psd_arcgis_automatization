@@ -6,9 +6,13 @@ Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScrip
 
 ### PSD ###
 
-* `Layer_export_PNG24` - z aktywnego projektu .psd skrypt eksportuje wszystkie warstwy do oddzielnych plików .png i zapisuje je w tej samej lokalizacji co projekt
+* `_helloPsd_test` - pierwszy testowy skrypt, wyświetla alert w programie Photoshop
+
+* `_layer_export_PNG24` - z aktywnego projektu .psd skrypt eksportuje wszystkie warstwy do oddzielnych plików .png i zapisuje je w tej samej lokalizacji co projekt
 
 * `_open_resize10_savePNG2_invertBlack` - we wskazanych katalogach skrypt odszukuje pliki .tif, zmienia ich tryb barw na rgb, zmniejsza do 10% wielkości i zapisuje w tej samej lokalizacji w formacie .png, oryginalny plik .tif jest usuwany
+
+* `_window_open_file` - skrypt uruchamiany w okienku dialogowym z guzikami, pozwala przeglądać pliki na dysku i otwiera wskazany obraz .tif
 
 ### ArcGIS ###
 
