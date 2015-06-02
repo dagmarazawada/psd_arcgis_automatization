@@ -1,3 +1,7 @@
+# export layers to PNG
+
+import arcpy
+
 mxd = arcpy.mapping.MapDocument("CURRENT")  
 df = arcpy.mapping.ListDataFrames(mxd, '')[0] # mozliwy jeden dataframe
 
