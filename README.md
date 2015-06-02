@@ -18,6 +18,8 @@ Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScrip
 
 * `exportPNG` - w aktywnym projekcie .mxd skrypt kolejno eksportuje do formatu .png wszystkie warstwy projektu w widoku i rozmiarze takim jak do druku (layout view)
 
+* `splitLine` - narzędzie dla ArcGIS 10.3, wskazaną linię dzieli na podaną liczbę równych odcinków
+
 # Uruchomienie #
 
 ### PSD ###
