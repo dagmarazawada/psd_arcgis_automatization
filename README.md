@@ -20,6 +20,8 @@ Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScrip
 
 * `splitLine` - narzędzie dla ArcGIS 10.3, wskazaną linię dzieli na podaną liczbę równych odcinków
 
+* `tableInfo` - wypisuje i zapisuje we wskazanym pliku .txt informacje o właściwościach pól tabeli wybranej warstwy, shp, tabeli
+
 # Uruchomienie #
 
 ### PSD ###
