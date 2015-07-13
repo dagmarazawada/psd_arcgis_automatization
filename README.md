@@ -12,6 +12,8 @@ Zbiór skryptów automatyzujących proste prace i przetworzenia w PSD (JavaScrip
 
 * `_open_resize10_savePNG2_invertBlack` - we wskazanych katalogach skrypt odszukuje pliki .tif, zmienia ich tryb barw na rgb, zmniejsza do 10% wielkości i zapisuje w tej samej lokalizacji w formacie .png, oryginalny plik .tif jest usuwany
 
+* `_open_resize200px` - we wskazanych katalogach skrypt otwiera jpg, zmniejsza do 200px szerokości i nadpisuje w tej samej lokalizacji
+
 * `_window_open_file` - skrypt uruchamiany w okienku dialogowym z guzikami, pozwala przeglądać pliki na dysku i otwiera wskazany obraz .tif
 
 ### ArcGIS ###
